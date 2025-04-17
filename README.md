@@ -12,7 +12,6 @@
 - MySQL, Docker, Git, Vite, jQuery
 
 🎓 Projects: Classroom Booking System, Volunteer Activity Platform  
-📊 Member of **PTTPS** (Project • Technology • Tactics • Planning • Solutions)
 
 ---
 
