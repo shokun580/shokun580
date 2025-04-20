@@ -23,6 +23,7 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=shokun580&theme=tokyonight&column=ค)](https://github.com/ryo-ma/github-profile-trophy)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shokun580&theme=github-compact)
 
 
 ## ⚒️ Tech Stack & Tools
