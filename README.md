@@ -7,9 +7,9 @@
 🎯 Career goal: Full Stack Developer → Project Manager → Startup Founder  
 
 🧠 Currently working with:
-- Express.js, React, Prisma, Tailwind CSS  
+- Express.js, React, Tailwind CSS  
 - Laravel, PHP, SQL, JavaScript  
-- MySQL, Docker, Git, Vite, jQuery
+- MySQL, Docker, Git, jQuery
 
 🎓 Projects: Classroom Booking System, Volunteer Activity Platform  
 
@@ -41,14 +41,14 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<!-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) -->
 
 ## 🔧 Backend & Frameworks 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<!-- ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) -->
 
 ## 🛠️ Tools 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
